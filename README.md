@@ -341,8 +341,7 @@ monitor-fotovoltaico/
 │
 ├── hardware/
 │   ├── diagram.json           # Diagrama de circuito (Wokwi)
-│   ├── libraries.txt          # Lista de bibliotecas necessárias
-│   └── schematic.png          # Esquema de conexões (imagem)
+│   └── libraries.txt          # Lista de bibliotecas necessárias
 │
 └── docs/
     └── artigo.pdf             # Artigo científico completo do projeto
